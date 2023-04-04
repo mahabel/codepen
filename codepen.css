@@ -1,0 +1,250 @@
+body {
+    background-color:hsl(225deg 9.64% 7.89%);
+    color: white;
+}
+
+#react-page {
+    background-color: #121212;
+    width: 250px;
+    align-content: center;
+    justify-content: start;
+    align-items: center;
+    justify-items: start;
+    display: flex;
+}
+
+.banner > h1 {
+    font-size: 1em;
+}
+
+
+.menu-center > .Search-Pens {
+    color: white;
+    transition: .2s;
+    cursor: pointer;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    font-size: 1.2em;
+}
+
+.menu-center > .Search-Pens:hover {
+    background-color: black;
+}
+
+.menu-center > .Challenges {
+    color: white;
+    transition: .2s;
+    cursor: pointer;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    font-size: 1.2em;
+}
+
+.menu-center > .Challenges:hover {
+    background-color: black;
+}
+
+.menu-center > .Spark {
+    color: white;
+    transition: .2s;
+    cursor: pointer;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    font-size: 1.2em;
+}
+
+.menu-center > .Spark:hover {
+    background-color: black;
+}
+
+.menu-center > .menu-center-2 {
+    color: white;
+    transition: .2s;
+    cursor: pointer;
+    padding-bottom: 400px;
+    padding-top: 10px;
+    font-size: 1.2em;
+    display: flex;
+    padding-right: 10px;
+}
+
+.menu-center > .menu-center-2 .CodePen2 p{
+    padding-right: 10px;
+}
+.menu-center > .menu-center-2 > .PRO p{
+    background-color: #edf120;
+    color: #121212;
+    
+}
+
+
+.menu-center > .menu-center-2:hover {
+    background-color: black;
+}
+
+.menu-left img{
+    height: 75px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: -1000px;
+
+}
+
+.search>input {
+    padding-right: 1800px;
+
+}
+
+.search>.sign-up>.btn {
+    padding-right: 40px;
+    border-radius: 5px;
+    background-color: hsl(139.41deg 58.91% 54.61%);
+    transition: .1s;
+}
+
+.search>.sign-up>.btn:hover {
+    background-color: hsl(139.62deg 59.55% 34.65%);
+    color: #fff;
+    cursor: pointer;
+}
+
+.search>.log-in>.btn {
+    padding-right: 40px;
+    border-radius: 5px;
+    background-color: hsl(227.37deg 11.76% 31.47%);
+    color: #fff;
+    transition: .1s;
+    cursor: pointer;
+}
+
+.search>.log-in>.btn:hover {
+    background-color: rgb(132, 127, 127);
+}
+
+.main-sidebar>.codepenlogo img {
+    display: block;
+    fill: none;
+    width: 150px;
+    height: 100%;
+    margin: 40px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 2.3;
+}
+
+.codepenlogo img {
+    display: inline-block;
+    height: 75px;
+}
+
+.main-sidebar>.codepenlogo {
+    display: block;
+    fill: none;
+    stroke: var(--cp-color-1);
+    stroke-width: 2.3;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    height: 100%;
+    width: 150px;
+    background: #111;
+}
+
+.codepenlogo img {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+    background: #111;
+}
+
+.codepenlogo img {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.menu-left>.banner h1 {
+    line-height: 1.2;
+    margin: 0 0 10px;
+    font-weight: 400;
+    margin: 0.83em 0;
+    font-weight: bold;
+}
+
+
+
+.navigation-wrapper>.menu-left button {
+    background: black;
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    color: #fff;
+    font-size: 24x;
+    font-weight: bold;
+    position: relative;
+    border-radius: 12px;
+    transition: 0.1s;
+}
+
+
+.navigation-wrapper>.menu-left>button:hover {
+    background: green;
+
+}
+
+.text {
+    display: flex;
+    justify-content: right;
+    padding-top: -500px;
+    margin-top: -1000px;
+    padding-left: 350px;
+}
+
+.text2 {
+    padding-right: 700px;
+    margin: -50px;
+
+}
+
+.text2 h2 {
+    font-size: 280%;
+    spacing: 2em;
+   
+}
+
+
+
+.box-imagen2 img {
+    height: 50%;
+}
+
+.btn2 {
+    background-color: hsl(139.41deg 58.91% 54.61%);
+    border-radius: 5px;
+    padding: 20px;
+    padding-right: 40px;
+    ;
+}
+.box-imagen img{
+height: 100px;
+width: 400px;
+display: flex;
+justify-content: right;
+padding-top: -500px;
+margin-top: -500px;
+padding-left: 350px;
+}
+
+.box-container2 img {
+  height: 700px;
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+
